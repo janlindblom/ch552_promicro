@@ -5,6 +5,14 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "CH552T ProMicro")
+    (date "2023-10-21")
+    (rev "v0.1")
+    (company "Namnlos")
+    (comment 1 "Jan Lindblom")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
